@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="300" alt="天天瓜料网 官方 Logo">
+  <img src="logo.png" width="240" alt="天天瓜料网 官方 Logo">
 </p>
 
 <h1 align="center">天天瓜料网</h1>
