@@ -44,7 +44,7 @@
   https://t1t1.com  
 
 - 官方 X（Twitter）账号  
-  https://x.com/tiantiangualiao1
+  https://x.com/tiantianchigua1
 
 ---
 
